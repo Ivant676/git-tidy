@@ -5,3 +5,4 @@ edition = "2021"
 description = "Tidy up stale git branches."
 # handle the edge case from the last release
 # drop an unused branch
+# match the style used in the rest of the module
